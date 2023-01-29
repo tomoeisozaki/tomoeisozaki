@@ -12,6 +12,8 @@ Btw, I'm doing my internship at Hoolabs XD
 *   🚀  I'm currently working on [MyApp](http://recovdot.github.io)
 *   🧠  I'm learning Javascript, ReactJS, Webflow
 
+<br />
+<br />
 
 ### Tech stack:
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="26px" height="26px" alt="JavaScript" />
@@ -22,6 +24,7 @@ Btw, I'm doing my internship at Hoolabs XD
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="26px" height="26px" alt="MySQL" />
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="26px" height="26px" alt="Figma" />
 
+<br />
 <br />
                   
 ### Connect with me:
