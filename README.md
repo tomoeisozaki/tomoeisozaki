@@ -34,16 +34,20 @@ Btw, I'm doing my internship at Hoolabs XD
 </p>
                   
 ### Socials
-                  
-                  
-<p align="left">      
-<a href="https://www.facebook.com/tomoeisozaki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="26px" height="26px" /></a>          
-<a href="https://www.github.com/recovdot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="26px" height="26px" /></a>
-<a href="http://www.instagram.com/tomoeisozaki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="26px" height="26px" /></a>
-<a href="https://www.linkedin.com/in/tomoeisozaki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26px" height="26px" /></a>
-<a href="https://www.youtube.com/c/YuuZen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="26px" height="26px" /></a></p>
+                      
+[<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="26px" height="26px" />][facebook]  
+[<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="26px" height="26px" />][github]
+[<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="26px" height="26px" />][instagram]
+[<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26px" height="26px" />][linkedin]
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="26px" height="26px" />][youtube]
 
 ### Badges<b>My GitHub Stats</b>
 <a href="http://www.github.com/recovdot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=recovdot&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/recovdot"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=recovdot&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
+
+[facebook]: https://www.facebook.com/tomoeisozaki
+[github]: https://www.github.com/recovdot
+[instagram]: https://www.instagram.com/tomoeisozaki
+[linkedin]: https://www.linkedin.com/in/tomoeisozaki/
+[youtube]: https://www.youtube.com./c/YuuZen
