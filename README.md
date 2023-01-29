@@ -12,15 +12,6 @@ Btw, I'm doing my internship at Hoolabs XD
 *   🚀  I'm currently working on [MyApp](http://recovdot.github.io)
 *   🧠  I'm learning Javascript, ReactJS, Webflow
 
-<style>
-    p > a {
-        display: inline-flex;
-        justify-content: left;
-        flex-wrap: wrap;
-        margin-right: 6px;
-    }
-</style>
-
 
 ### Skills 
 <p align="left">
