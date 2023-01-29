@@ -12,6 +12,16 @@ Btw, I'm doing my internship at Hoolabs XD
 *   🚀  I'm currently working on [MyApp](http://recovdot.github.io)
 *   🧠  I'm learning Javascript, ReactJS, Webflow
 
+<style>
+    p > a {
+        display: inline-flex;
+        justify-content: left;
+        flex-wrap: wrap;
+        margin-right: 6px;
+    }
+</style>
+
+
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
