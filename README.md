@@ -16,7 +16,7 @@ Btw, I'm doing my internship at Hoolabs XD
 ### Skills 
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="26px" height="26px" alt="JavaScript" />
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="26px" height="26px" alt="Python" />
-<img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" width="26px" height="26px" alt="Next JS" />
+<img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" width="26px" height="auto" alt="Next JS" />
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="26px" height="26px" alt="Bootstrap" />
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="26px" height="26px" alt="NodeJS" />
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="26px" height="26px" alt="MySQL" />
