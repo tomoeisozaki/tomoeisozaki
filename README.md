@@ -23,6 +23,7 @@ Btw, I'm doing my internship at Hoolabs XD
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="26px" height="26px" alt="Figma" />
 
 <br />
+<br />
                   
 ### Socials
 
