@@ -30,9 +30,7 @@ Btw, I'm doing my internship at Hoolabs XD
 <a href="https://www.facebook.com/tomoeisozaki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="26px" height="26px" /></a>          
 <a href="https://www.github.com/recovdot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="26px" height="26px" /></a>
 <a href="http://www.instagram.com/tomoeisozaki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="26px" height="26px" /></a>
-                          
 <a href="https://www.linkedin.com/in/tomoeisozaki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26px" height="26px" /></a>
-                          
 <a href="https://www.youtube.com/c/YuuZen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="26px" height="26px" /></a></p>
 
 ### Badges<b>My GitHub Stats</b>
