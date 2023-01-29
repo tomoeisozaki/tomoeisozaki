@@ -13,7 +13,7 @@ Btw, I'm doing my internship at Hoolabs XD
 *   🧠  I'm learning Javascript, ReactJS, Webflow
 
 
-### Skills 
+### Tech stack:
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="26px" height="26px" alt="JavaScript" />
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="26px" height="26px" alt="Python" />
 <img align="left" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" width="auto" height="auto" alt="Next JS" />
@@ -24,7 +24,7 @@ Btw, I'm doing my internship at Hoolabs XD
 
 <br />
                   
-### Socials
+### Connect with me:
 
                       
 [<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="26px" height="26px" />][facebook]
