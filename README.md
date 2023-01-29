@@ -33,6 +33,8 @@ Btw, I'm doing my internship at Hoolabs XD
 [<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26px" height="26px" />][linkedin]
 [<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="26px" height="26px" />][youtube]
 
+<br />
+
 ### Badges
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/recovdot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=recovdot&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
