@@ -28,13 +28,11 @@ Btw, I'm doing my internship at Hoolabs XD
 
                       
 [<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="26px" height="26px" />][facebook]
-[<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="26px" height="26px" />][github]
 [<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="26px" height="26px" />][instagram]
 [<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="26px" height="26px" />][linkedin]
 [<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="26px" height="26px" />][youtube]
   
 [facebook]: https://www.facebook.com/tomoeisozaki
-[github]: https://www.github.com/recovdot
 [instagram]: https://www.instagram.com/tomoeisozaki
 [linkedin]: https://www.linkedin.com/in/tomoeisozaki/
 [youtube]: https://www.youtube.com./c/YuuZen
