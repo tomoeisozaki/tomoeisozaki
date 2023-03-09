@@ -10,7 +10,7 @@ Btw, I'm doing my internship at Hoolabs XD
 *   🖥️  See my portfolio at [My Portofolio](http://rcv.carrd.co)
 *   ✉️  You can contact me at [recovdot@gmail.com](mailto:recovdot@gmail.com)
 *   🚀  I'm currently working on [MyApp](http://recovdot.github.io)
-*   🧠  I'm learning Javascript, ReactJS, Webflow
+*   🧠  I'm learning Javascript & Typescript, NextJS, TailwindCSS
 
 ### Tech stack:
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="26px" height="26px" alt="JavaScript" />
