@@ -7,7 +7,7 @@ Web Developer and Desinger
 Btw, I'm doing my internship at Hoolabs XD
 
 *   🌍  I'm based in Indonesia
-*   🖥️  See my portfolio at [My Portofolio](http://rcv.carrd.co)
+*   🖥️  See my portfolio at [My Portofolio](http://www.recovdot.site)
 *   ✉️  You can contact me at [recovdot@gmail.com](mailto:recovdot@gmail.com)
 *   🚀  I'm currently working on [MyApp](http://recovdot.github.io)
 *   🧠  I'm learning Javascript & Typescript, NextJS, TailwindCSS
