@@ -8,7 +8,7 @@ Btw, I'm doing my internship at Hoolabs XD
 
 *   🌍  I'm based in Indonesia
 *   🖥️  See my portfolio at [My Portofolio](http://www.recovdot.site)
-*   ✉️  You can contact me at [recovdot@gmail.com](mailto:recovdot@gmail.com)
+*   ✉️  You can contact me at [hello@recovdot.site](mailto:hello@recovdot.site)
 *   🚀  I'm currently working on [MyApp](http://recovdot.github.io)
 *   🧠  I'm learning Javascript & Typescript, NextJS, TailwindCSS
 
