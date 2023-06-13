@@ -9,8 +9,7 @@ Btw, I'm doing my internship at Hoolabs XD
 *   🌍  I'm based in Indonesia
 *   🖥️  See my portfolio at [My Portofolio](http://www.recovdot.site)
 *   ✉️  You can contact me at [hello@recovdot.site](mailto:hello@recovdot.site)
-*   🚀  I'm currently working on [MyApp](http://recovdot.github.io)
-*   🧠  I'm learning Javascript & Typescript, NextJS, TailwindCSS
+*   🧠  I'm learning Javascript & Typescript, Python, MongoDB
 
 ### Tech stack:
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="26px" height="26px" alt="JavaScript" />
