@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Desinger
 --------------------------
 
-Btw, I'm doing my internship at Hoolabs XD
-
 *   🌍  I'm based in Indonesia
 *   🖥️  See my portfolio at [My Portofolio](http://www.recovdot.site)
 *   ✉️  You can contact me at [hello@recovdot.site](mailto:hello@recovdot.site)
