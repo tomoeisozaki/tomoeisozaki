@@ -5,8 +5,8 @@ Web Developer and Desinger
 --------------------------
 
 *   🌍  I'm based in Indonesia
-*   🖥️  See my portfolio at (soon) [My Portofolio](https://www.tomoeisozaki.my.id)
-*   ✉️  You can contact me at [hello@tomoeisozaki.my.id](mailto:hello@tomoeisozaki.my.id)
+*   🖥️  Get in touch [My Website](https://www.tomoeisozaki.my.id)
+*   ✉️  You can contact me at [hello@tomoeisozaki.my.id](mailto:tomoeisozaki@recovdot.com)
 *   🧠  I'm learning Javascript & Typescript, Python, MongoDB
 
 ### Tech stack:
